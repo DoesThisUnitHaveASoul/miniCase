@@ -10,8 +10,8 @@ Solution: think of the relation as an object, which keeps all relevant informati
 
 PLAYER:
 - stores a list with relations 
-    -> minimizes size of lists (vs multiplayer and stored on actor)
-    -> mimics real world ("I know who I like")
+    - minimizes size of lists (vs multiplayer and stored on actor)
+    - mimics real world ("I know who I like")
 - creates a new relation
 - accesses relations in the list as needed
 
